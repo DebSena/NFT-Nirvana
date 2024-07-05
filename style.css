@@ -27,6 +27,7 @@ nav{
     justify-content: space-between;
     height: 80px;
     background-color: #cad6e8;
+    border-radius: 20px;
 }
 nav .links{
     display: flex;
